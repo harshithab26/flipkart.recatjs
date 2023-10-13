@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "5",
+      "title": "fdgt",
+      "brand": "khif",
+      "price": "1259",
+      "description": "zdfvg gfsdtygbbi976 jkmlpohvfdrfvnhj",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "productId": "ap",
+      "title": "90r8",
+      "brand": "675",
+      "price": "4269",
+      "description": "875",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    }
+  ]
+}
