@@ -11,7 +11,7 @@ import Cards2 from './components/Cards2.js';
 function App() {
   return (
    <>
-   <div className='container-fluid'>
+   <div className='container-fluid sample'>
         <div className='row'>
                 <Searchbar/>
                 <Menu/>
